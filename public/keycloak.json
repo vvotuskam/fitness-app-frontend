@@ -1,0 +1,8 @@
+{
+  "realm": "fitness-app",
+  "auth-server-url": "http://localhost:8762/",
+  "ssl-required": "external",
+  "resource": "fitness-app",
+  "public-client": true,
+  "confidential-port": 0
+}
